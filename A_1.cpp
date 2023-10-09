@@ -41,3 +41,15 @@ Enter 3 Elements
 0
 1
 Zero occured at how many times:: 1 times
+
+Enter size of array:8
+Enter 8 Elements
+10
+20
+00
+34
+000
+87
+0
+000000
+Zero occured at how many times:: 4 times
