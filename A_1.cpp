@@ -31,3 +31,13 @@ int main()
 
     return 0;
 }
+
+
+
+Output:
+Enter size of array:3
+Enter 3 Elements
+1
+0
+1
+Zero occured at how many times:: 1 times
